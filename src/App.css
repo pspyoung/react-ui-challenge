@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto+Slab:wght@100&display=swap');
+
+* {
+	/* Main body font */
+	font-family: 'Open Sans', sans-serif;
+
+	/* Footer font */
+	/* font-family: 'Roboto Slab', serif; */
+}
+
+.App {
+	max-height: 100vh;
+	display: grid;
+	grid-template-rows: 6fr 1fr;
+	grid-template-columns: 0.2fr 0.6fr 0.2fr;
+	text-align: center;
+}
+
+.appBody {
+	grid-column: 2;
+}

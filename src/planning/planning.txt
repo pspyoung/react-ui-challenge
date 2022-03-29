@@ -1,0 +1,19 @@
+Styleguide:
+
+Font: The sans-serif font is Open Sans and the serif font is Roboto Slab
+
+Blue: rgb(88,153,223)
+rgb (245, 245, 245) for the gray color background
+
+
+Components:
+
+LogoBody
+LoginForm (Email and password forms, login button)
+Form Footer
+
+1) Create Components 
+2) Scaffold placeholder form/buttons
+3) Scaffold footer
+
+Need Help? On end of App body after the components 
