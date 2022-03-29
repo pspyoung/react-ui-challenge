@@ -11,10 +11,10 @@ function App() {
 				<LogoBody />
 				<LoginForm />
 				<FormFooter />
-				<p className="needHelp">
-					Need help? No problem! Email support@acompany or call 800-377-6915.
-				</p>
 			</div>
+			<p className="needHelp">
+				Need help? No problem! Email support@acompany or call 800-377-6915.
+			</p>
 		</div>
 	);
 }

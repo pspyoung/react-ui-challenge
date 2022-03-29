@@ -1,4 +1,12 @@
 .footerLinks {
 	display: flex;
 	justify-content: space-between;
+	padding-left: 4%;
+	padding-right: 4%;
+	background-color: rgb(245, 245, 245);
+	font-size: 0.75em;
+}
+
+.accountLinks {
+	color: rgb(88, 153, 223);
 }

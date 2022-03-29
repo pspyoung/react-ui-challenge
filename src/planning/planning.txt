@@ -3,7 +3,7 @@ Styleguide:
 Font: The sans-serif font is Open Sans and the serif font is Roboto Slab
 
 Blue: rgb(88,153,223)
-rgb (245, 245, 245) for the gray color background
+Gray: rgb(245, 245, 245) 
 
 
 Components:
